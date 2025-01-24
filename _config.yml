@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shiyu Yuan / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shiyu Yuan"
 description              : &description "personal description"
 url                      : https://syyuan2021.github.io/syy2025/ # the base hostname & protocol for your site e.g. "https://academicpages.github.io  https://[your GitHub username].github.io   https://syyuan2021.github.io/syy2025/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
