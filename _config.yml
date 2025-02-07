@@ -21,7 +21,7 @@ repository               : https://github.com/syyuan2021/syy2025    "academicpag
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bobo_copy-min.jpg" 
   name             : "Shiyu Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Bio and Links"
